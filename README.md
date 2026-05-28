@@ -50,6 +50,7 @@ The dataset contains retail sales records including product details, sales amoun
 - Retail_Data_Analysis.xlsx
 - Excel_Dashboard.jpg
 - README.md
+- Retail_Dataset.xlsx
 
 ## Future Improvements
 - Create an interactive Power BI dashboard
